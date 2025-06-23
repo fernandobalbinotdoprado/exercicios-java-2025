@@ -1,7 +1,7 @@
 package exercicios;
 import javax.swing.*;
 
-public class Ex2 {
+public class Ex3 {
     public static void main(String[] args) {
        String entrada = JOptionPane.showInputDialog("Digite um número inteiro: ");
 
